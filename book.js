@@ -11,5 +11,8 @@ module.exports = {
     "language" : "zh-hans",
     "plugins": [
         "-sharing"
-    ]
+    ],
+    "styles": {
+        "website": "common.css",
+    }
 }
