@@ -4,7 +4,7 @@ module.exports = {
     "links" : {
         "sidebar": {
             // "Home": "http://zyou.top",
-            "Actui": "//alidemo.yidake.com/Actui"
+            "Actui": "http://alidemo.yidake.com/Actui"
         }
     },
     "gitbook": "3.2.3",
